@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="it">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Fondazione vita serena, C​ampo estivo di Olivone">
+    <meta name="description" content="">
+    <title>Iscrizione campo Vol</title>
+    <link rel="stylesheet" href="{{ URL::asset('css/Campo-estivo/Iscrizione-campo-Vol.css') }}" />
+    <link rel="stylesheet" href="{{ URL::asset('css/nicepage.css') }}" />
+    <script class="u-script" type="text/javascript" src="{{ URL::asset('js/jquery.js') }}"></script>
+    <script class="u-script" type="text/javascript" src="{{ URL::asset('js/nicepage.js') }}"></script>
+    <meta name="generator" content="Nicepage 4.18.5, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": ""
+      }
+    </script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Iscrizione campo Vol">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode" data-lang="it">
+    <section class="u-align-left u-clearfix u-valign-top-md u-section-1" id="sec-02e6">
+      <div class="u-align-center-md u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-xl u-list u-list-1">
+        <div class="u-repeater u-repeater-1">
+          <div class="u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-container-layout-1">
+              <p class="u-align-center u-custom-item u-text u-text-1">
+                <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="{{route('HomeCampo')}}">
+                  <span class="u-file-icon u-icon u-icon-1" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
+                    <img style="width:37px; height:37px;" src="{{URL::asset('storage/images/69524.png')}}" alt="">
+                  </span>
+                  <br>Home </a>
+              </p>
+            </div>
+          </div>
+          <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-container-layout-2">
+              <p class="u-align-center u-custom-item u-text u-text-default u-text-2">
+                <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" href="{{route('HomeCampo')}}">
+                  <span class="u-file-icon u-icon u-icon-2" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
+                    <img style="width:37px; height:37px;" src="{{URL::asset('storage/images/992680.png')}}" alt="">
+                  </span>
+                  <br>Sign out </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img class="u-align-left u-hidden-md u-hidden-sm u-hidden-xs u-image u-image-contain u-image-default u-image-1" src="{{URL::asset('storage/images/centro-diurno-vita-serena-1.png')}}" alt="" data-image-width="332" data-image-height="291">
+      <div class="u-hidden-xs u-list u-list-2">
+        <div class="u-repeater u-repeater-2">
+          <div class="u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
+              <a href="{{route('Home')}}" class="u-active-none u-border-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-btn-3">Home sito</a>
+            </div>
+          </div>
+          <div class="u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-4">
+              <a href="{{route('Su-di-noi')}}" class="u-active-none u-border-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-btn-4">Chi siamo <br>
+              </a>
+            </div>
+          </div>
+          <div class="u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-5">
+              <a href="{{route('Contatti')}}" class="u-active-none u-border-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-btn-5">Contatti <br>
+              </a>
+            </div>
+          </div>
+          <div class="u-container-style u-list-item u-repeater-item">
+            <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-6">
+              <a href="https://www.centridiurni.ch/centro-diurno-vita-serena/" class="u-active-none u-border-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-btn-6" target="_blank">Centro diurno <br>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h1 class="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-default-lg u-text-default-xl u-text-3">Iscrizione al campo per l'ospite</h1>
+      <h2 class="u-text u-text-default u-text-4">Raccolta dati anagrafici</h2>
+      <div class="u-align-left u-form u-form-1">
+        <form action="#" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" style="padding: 15px;" source="email" name="form">
+          <div class="u-form-group u-form-name u-label-top">
+            <label for="name-6797" class="u-label">Nome</label>
+            <input type="text" id="name-6797" name="nameTxt" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+          </div>
+          <div class="u-form-group u-label-top">
+            <label for="text-ce3a" class="u-label">Cognome</label>
+            <input type="text" placeholder="" id="text-ce3a" name="lastNameTxt" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+          </div>
+          <div class="u-form-date u-form-group u-label-top u-form-group-3">
+            <label for="date-f894" class="u-label"> Data di nascita</label>
+            <input type="date" placeholder="MM/DD/YYYY" id="date-f894" name="bornDate" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+          </div>
+          <div class="u-form-group u-label-top">
+            <label for="text-9148" class="u-label">Via</label>
+            <input type="text" placeholder="" id="text-9148" name="viaTxt" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+          </div>
+          <div class="u-form-group u-label-top u-form-group-5">
+            <label for="text-62ef" class="u-label">CAP</label>
+            <input type="text" placeholder="" id="text-62ef" name="CAP" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+          </div>
+          <div class="u-form-group u-label-top u-form-group-6">
+            <label for="text-d5e8" class="u-label">Nazione</label>
+            <input type="text" placeholder="" id="text-d5e8" name="nazione" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+          </div>
+          <div class="u-form-group u-form-phone u-label-top">
+            <label for="text-3fc9" class="u-label">Numero telefono</label>
+            <input type="tel" id="text-3fc9" name="phoneNumber" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required" placeholder="+41 / +39 ...">
+          </div>
+          <div class="u-form-group u-label-top u-form-group-8">
+            <label for="text-0a71" class="u-label">Tutore legale</label>
+            <input type="text" id="text-0a71" name="legalTutor" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" placeholder="Indicare se stessi se è il caso">
+          </div>
+          <div class="u-align-left u-form-group u-form-submit u-label-top">
+            <a href="#" class="u-btn u-btn-submit u-button-style">Procedi</a>
+            <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+          </div>
+        </form>
+      </div>
+      <h2 class="u-align-center u-text u-text-palette-2-base u-text-5">I seguenti campi sono obbligatori per i minorenni. <br>Raccomandati per i maggiorenni <br>
+      </h2>
+    </section>
+    <section class="u-align-center u-clearfix u-section-2" id="sec-fadd">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Persona di riferimento <br>
+        </h2>
+        <div class="u-align-left u-form u-form-1">
+          <form action="#" class="u-clearfix u-form-spacing-4 u-form-vertical u-inner-form" style="padding: 13px;" source="email" name="form">
+            <div class="u-form-group u-form-name u-label-top">
+              <label for="name-6797" class="u-label">Nome</label>
+              <input type="text" id="name-6797" name="nameRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-ce3a" class="u-label">Cognome</label>
+              <input type="text" placeholder="" id="text-ce3a" name="lastNameRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-date u-form-group u-label-top u-form-group-3">
+              <label for="date-f894" class="u-label"> Data di nascita</label>
+              <input type="date" placeholder="MM/DD/YYYY" id="date-f894" name="borndateRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-9148" class="u-label">Via</label>
+              <input type="text" placeholder="" id="text-9148" name="viaRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top u-form-group-5">
+              <label for="text-62ef" class="u-label">CAP</label>
+              <input type="text" placeholder="" id="text-62ef" name="capRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top u-form-group-6">
+              <label for="text-d5e8" class="u-label">Nazione</label>
+              <input type="text" placeholder="" id="text-d5e8" name="nazioneRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-form-phone u-label-top">
+              <label for="text-3fc9" class="u-label">Numero telefono</label>
+              <input type="tel" id="text-3fc9" name="phoneRef" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required" placeholder="+41 / +39 ...">
+            </div>
+            <div class="u-form-group u-form-phone u-label-top u-form-group-8">
+              <label for="text-e443" class="u-label">Telefono madre</label>
+              <input type="tel" placeholder="+41 / +39 ..." id="text-e443" name="phoneMomt" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+            </div>
+            <div class="u-form-group u-form-phone u-label-top u-form-group-9">
+              <label for="phone-5acc" class="u-label">Telefono padre</label>
+              <input type="tel" placeholder="+41 / +39 ..." id="phone-5acc" name="phoneDad" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+            </div>
+            <div class="u-align-left u-form-group u-form-submit u-label-top">
+              <a href="#" class="u-btn u-btn-submit u-button-style">Procedi</a>
+              <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-3" id="sec-9549">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Dati medici - base</h2>
+        <div class="u-align-left u-form u-form-1">
+          <form action="#" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" style="padding: 15px;" source="email" name="form">
+            <div class="u-form-group u-form-name u-label-top">
+              <label for="name-6797" class="u-label">Medico curante</label>
+              <input type="text" id="name-6797" name="medico" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-ce3a" class="u-label">Numero medico</label>
+              <input type="text" placeholder="" id="text-ce3a" name="medicoNum" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+            </div>
+            <div class="u-form-group u-form-select u-form-group-3">
+              <label for="select-9cba" class="u-label">Medicamenti</label>
+              <div class="u-form-select-wrapper">
+                <select id="select-9cba" name="medicamentiDropD" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+                  <option value="No">No</option>
+                  <option value="Sì">Sì</option>
+                </select>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret">
+                  <path fill="currentColor" d="M4 8L0 4h8z"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-dd6f" class="u-label">Quali</label>
+              <input type="text" id="text-dd6f" name="medicamenti" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+            </div>
+            <div class="u-align-left u-form-group u-form-submit u-label-top">
+              <a href="#" class="u-btn u-btn-submit u-button-style">Procedi</a>
+              <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+            </div>
+          </form>
+        </div>
+        <div class="u-form u-form-2">
+          <form action="#" source="email" name="form-1" style="padding: 10px;">
+            <div class="u-form-group u-form-select u-form-group-6">
+              <label for="select-b5a2" class="u-label">Diabete</label>
+              <div class="u-form-select-wrapper">
+                <select id="select-b5a2" name="diabete" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+                  <option value="No">No</option>
+                  <option value="Sì">Sì</option>
+                </select>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret">
+                  <path fill="currentColor" d="M4 8L0 4h8z"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="u-form-group u-form-select u-form-group-7">
+              <label for="select-c58c" class="u-label">Epilessia</label>
+              <div class="u-form-select-wrapper">
+                <select id="select-c58c" name="epilessia" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+                  <option value="No">No</option>
+                  <option value="Sì">Sì</option>
+                </select>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret">
+                  <path fill="currentColor" d="M4 8L0 4h8z"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="u-form-group u-form-select u-form-group-8">
+              <label for="select-a6b5" class="u-label">Allergie</label>
+              <div class="u-form-select-wrapper">
+                <select id="select-a6b5" name="Allergie" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+                  <option value="No">No</option>
+                  <option value="Sì">Sì</option>
+                </select>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret">
+                  <path fill="currentColor" d="M4 8L0 4h8z"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="u-form-group u-form-group-9">
+              <label for="text-a2a8" class="u-label">Allergia a cosa?</label>
+              <input type="text" placeholder="Inserisici allergie" id="text-a2a8" name="allergia" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white">
+            </div>
+            <div class="u-form-group u-form-select u-form-group-10">
+              <label for="select-478a" class="u-label">Sindrome premestruale</label>
+              <div class="u-form-select-wrapper">
+                <select id="select-478a" name="mestrua" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white">
+                  <option value="No">No</option>
+                  <option value="Sì">Sì</option>
+                </select>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret">
+                  <path fill="currentColor" d="M4 8L0 4h8z"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="u-align-left u-form-group u-form-submit">
+              <a href="#" class="u-btn u-btn-submit u-button-style">Procedi <br>
+              </a>
+              <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+            </div>
+            <div class="u-form-send-message u-form-send-success"> Grazie! Il tuo messaggio è stato inviato con successo! </div>
+            <div class="u-form-send-error u-form-send-message"> Impossibile inviare il messaggio. Si prega di correggere gli errori e riprovare a inviare. </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-left u-clearfix u-section-4" id="sec-5b71">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Dati medici - avanzato</h2>
+        <div class="u-align-left u-form u-form-1">
+          <form action="#" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" style="padding: 15px;" source="email" name="form">
+            <div class="u-form-group u-form-name u-label-top">
+              <label for="name-6797" class="u-label">Descrivere problemi respiratori</label>
+              <input type="text" id="name-6797" name="ProblemiRespiratori" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-ce3a" class="u-label">Descrivere problemi cardiaci</label>
+              <input type="text" placeholder="" id="text-ce3a" name="ProblemiCard" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-4a71" class="u-label">Descrivere problemi pressione arteriosa</label>
+              <input type="text" placeholder="" id="text-4a71" name="ProblemiPress" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top u-form-group-4">
+              <label for="date-f894" class="u-label">Descrivere problemi problemi coagulazione</label>
+              <input type="text" id="date-f894" name="ProblemiCoag" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top">
+              <label for="text-9148" class="u-label">Descrivere problemi articolazioni/ossa</label>
+              <input type="text" placeholder="" id="text-9148" name="ProblemiOssa" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top u-form-group-6">
+              <label for="text-62ef" class="u-label">Descrivere problemi psicologici</label>
+              <input type="text" placeholder="Ansia, crisi di panico, fobie, ecc" id="text-62ef" name="ProblemiPsico" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-form-group u-label-top u-form-group-7">
+              <label for="text-d5e8" class="u-label">Descrivere altri problemi </label>
+              <input type="text" placeholder="" id="text-d5e8" name="ProblemiAltri" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+            </div>
+            <div class="u-align-left u-form-group u-form-submit u-label-top">
+              <a href="#" class="u-btn u-btn-submit u-button-style">Procedi</a>
+              <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-5" id="sec-1b37">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Vidimazione informazioni</h2>
+        <div class="u-form u-form-1">
+          <form action="#" source="email" name="form-2" style="padding: 10px;">
+            <div class="u-form-group u-label-top">
+              <label for="email-9216" class="u-label">Luogo</label>
+              <input type="text" id="email-9216" name="luogoCompila" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="required">
+            </div>
+            <div class="u-form-date u-form-group u-label-top u-form-group-2">
+              <label for="date-e1b0" class="u-label">Data</label>
+              <input type="date" placeholder="GG/MM/YYYY" id="date-e1b0" name="dataComplia" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+            </div>
+            <div class="u-form-group u-form-message u-label-top">
+              <label for="message-9216" class="u-label">Firma</label>
+              <textarea rows="4" cols="50" id="message-9216" name="signature" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required=""></textarea>
+            </div>
+            <div class="u-align-left u-form-group u-form-submit u-label-top">
+              <a href="{{route('UserPage')}}" class="u-btn u-btn-submit u-button-style">Invia iscrizione</a>
+              <input type="submit" value="submit" class="u-btn u-btn-submit u-button-style">
+            </div>
+            <div class="u-form-send-message u-form-send-success"> Grazie! Il tuo messaggio è stato inviato con successo! </div>
+            <div class="u-form-send-error u-form-send-message"> Impossibile inviare il messaggio. Si prega di correggere gli errori e riprovare a inviare. </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-3607">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Fondazione Vita Serena <br>©2022 </p>
+      </div>
+    </footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://github.com/MicheaColautti" target="_blank">
+        <span>Michea Colatti</span>
+      </a>
+      <p>
+        <span>Developer</span>
+      </p>
+      <br>
+      <br>
+    </section>
+  </body>
+</html>
